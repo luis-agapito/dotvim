@@ -2,7 +2,7 @@
 "call pathogen#infect()
 execute pathogen#infect()
 
-:let mapleader=","
+let mapleader=","
 
 "status bar
 "Add full file path to your existing statusline
